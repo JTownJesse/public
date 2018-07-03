@@ -1,0 +1,17 @@
+English:
+
+To add a radio station or another streaming source simply press the + button and enter a link 
+when prompted. Than enter the name of the station when prompted.
+Note it must be a streaming link, for example:
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
+
+To remove a station from the player simply long press on it.
+
+
+
+
+
+български
+
+За да добавите радио станция просто натиснете + бутона и сложете линка към радио станцията която искате да слушате.
+Например: http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
