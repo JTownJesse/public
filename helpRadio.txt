@@ -1,7 +1,7 @@
 English:
 
 To add a radio station or another streaming source simply press the + button and enter a link 
-when prompted. Thеn enter the name of the station when prompted.
+when prompted.
 
 Note it must be a streaming link, for example: http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws
 
@@ -22,4 +22,4 @@ An example of how to get radio station links: https://www.quora.com/How-do-I-get
 
 За да премахнете дадена радио станция натиснете върху нея и задръжте. 
 
-Пример как може да се сдобиете със линкове на радио станции (на Английйски):https://www.quora.com/How-do-I-get-a-streaming-URL-for-Tunein
+Пример как може да се сдобиете със линкове на радио станции (на Английски):https://www.quora.com/How-do-I-get-a-streaming-URL-for-Tunein
